@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022ilpe",
+        "defaultValue":"2022mimil",
         "required":"true",
         "disabled":"true"
       },

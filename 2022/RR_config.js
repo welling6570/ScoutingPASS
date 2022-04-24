@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022mimil",
+        "defaultValue":"2022misal",
         "required":"true",
         "disabled":"true"
       },
